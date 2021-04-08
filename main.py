@@ -1,10 +1,10 @@
 import os
 import sys
 
-from PyQt5.QtWidgets import QApplication, QAbstractItemView, QMessageBox, QFileDialog
+from PyQt5.QtWidgets import QApplication, QMessageBox
 from PyQt5.QtGui import QPixmap
-from PyQt5.QtCore import QDate, QTimer, Qt
-from PyQt5 import uic, QtCore, QtGui
+from PyQt5.QtCore import Qt
+from PyQt5 import uic
 from lib import functions as fc
 from lib import browser_functions as browser
 
